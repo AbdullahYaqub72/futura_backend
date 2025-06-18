@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.1",
+    "lucide-react": "^0.483.0",
+    "react-icons": "^5.5.0",
+    "react-router-dom": "^7.4.0"
+  },
+  "devDependencies": {
+    "@iconify/react": "^5.2.0"
+  }
+}
