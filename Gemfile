@@ -57,8 +57,6 @@ group :test do
 end
 
 gem "httparty", "~> 0.22.0"
-
-gem 'dotenv-rails'
 gem 'rack-cors'
 gem 'cancancan', '~> 3.5'
 gem 'puma'
