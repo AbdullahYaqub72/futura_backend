@@ -17,11 +17,10 @@ default: &default
   encoding: unicode
   pool: 5
   username: postgres.ceobcatjwmrilokphmtu
-  password: NKcMppPN3uePhpjP
+  password: BMSbRAyrIl8OEeSZ
   host: aws-0-ap-south-1.pooler.supabase.com
   port: 5432
   database: postgres
-  pool_mode: session
   timeout: 5000
   # For details on connection pooling, see Rails configuration guide
   # https://guides.rubyonrails.org/configuring.html#database-pooling
