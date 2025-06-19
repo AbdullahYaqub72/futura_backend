@@ -87,6 +87,4 @@ test:
 #
 production:
   <<: *default
-  database: inventory_hub_production
-  username: inventory_hub
-  password: <%= ENV["INVENTORY_HUB_DATABASE_PASSWORD"] %>
+  url: <%= ENV['DATABASE_URL'] %>
